@@ -11,18 +11,16 @@
 # Manually curate the Peak Intensity Table
 ## Remove silica compounds
 ## Remove artifacts
+## Replace missing values with 0
+## Transpose the table
 
-# Replace missing values with 0
-
-# Transpose the table
 
 ## Table example
 
-## Sample	                TSBAControlA.mzdata.xml	TSBAControlB.mzdata.xml	TSBAControlC.mzdata.xml
+# Sample	                TSBAControlA.mzdata.xml	TSBAControlB.mzdata.xml	TSBAControlC.mzdata.xml
 # Groups	                TSBA_CTL	              TSBA_CTL	              TSBA_CTL
 # C1/44.0572mz/1.27min	  4.85E+04	              1.72E+05	              2.98E+04
 # C2/40.0339mz/1.37min	  2.84E+05	              4.69E+05	              3.35E+04
-
 
 
 # (II) In the analysis folder prepare the following folders (Copy/Paste to make sure the name are the same)
@@ -33,13 +31,7 @@
 # "4_Diff_Int_Media"
 
 
-
-# "4_2nd_data_norm"
-# "5_PLSDA"
-
-
-
-# (IV) Place the peak intensity table in the "0. Data preparation" folder
+# (IΙΙ) Place the peak intensity table in the "0. Data preparation" folder
 
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
