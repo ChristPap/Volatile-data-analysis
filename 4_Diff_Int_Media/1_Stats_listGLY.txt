@@ -1,0 +1,78 @@
+$X29.93.9965mz.3.95min
+$X29.93.9965mz.3.95min$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  X29.93.9965mz.3.95min by Groups
+t = -1.0791, df = 2.5154, p-value = 0.373
+alternative hypothesis: true difference in means between group 0.1 TSBA and group 0.1 TSBA + AA is not equal to 0
+95 percent confidence interval:
+ -153.47162   82.05776
+sample estimates:
+     mean in group 0.1 TSBA mean in group 0.1 TSBA + AA 
+                  -17.85346                    17.85346 
+
+
+$X29.93.9965mz.3.95min$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8811047 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.255513  1.493303 
+
+
+
+$X88.125.9527mz.7.26min
+$X88.125.9527mz.7.26min$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  X88.125.9527mz.7.26min by Groups
+t = -0.68299, df = 3.8179, p-value = 0.5338
+alternative hypothesis: true difference in means between group 0.1 TSBA and group 0.1 TSBA + AA is not equal to 0
+95 percent confidence interval:
+ -42.21100  25.79538
+sample estimates:
+     mean in group 0.1 TSBA mean in group 0.1 TSBA + AA 
+                  -4.103904                    4.103904 
+
+
+$X88.125.9527mz.7.26min$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.5576554 (medium)
+95 percent confidence interval:
+    lower     upper 
+-2.868254  1.752944 
+
+
+
+$X228.43.0710mz.14.18min
+$X228.43.0710mz.14.18min$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  X228.43.0710mz.14.18min by Groups
+t = -0.52069, df = 2.1373, p-value = 0.6515
+alternative hypothesis: true difference in means between group 0.1 TSBA and group 0.1 TSBA + AA is not equal to 0
+95 percent confidence interval:
+ -66.47970  51.32753
+sample estimates:
+     mean in group 0.1 TSBA mean in group 0.1 TSBA + AA 
+                  -3.788043                    3.788043 
+
+
+$X228.43.0710mz.14.18min$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.4251393 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.717563  1.867284 
+
+
+

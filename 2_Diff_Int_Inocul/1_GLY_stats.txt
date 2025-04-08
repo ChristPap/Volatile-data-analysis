@@ -1,0 +1,5798 @@
+$`0.1 TSBA X1.40.0326mz.1.27min`
+$`0.1 TSBA X1.40.0326mz.1.27min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.091545, df = 3.9698, p-value = 0.9315
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -17.19599  16.10141
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.9962715                          -0.4489774 
+
+
+$`0.1 TSBA X1.40.0326mz.1.27min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.07474638 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.342496  2.193003 
+
+
+
+$`0.1 TSBA X2.40.0340mz.1.38min`
+$`0.1 TSBA X2.40.0340mz.1.38min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.19238, df = 3.9424, p-value = 0.8569
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -12.20060  10.62792
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.8111808                           1.5975183 
+
+
+$`0.1 TSBA X2.40.0340mz.1.38min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.1570768 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.427528  2.113374 
+
+
+
+$`0.1 TSBA X3.40.0282mz.1.51min`
+$`0.1 TSBA X3.40.0282mz.1.51min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.55362, df = 3.9562, p-value = 0.6096
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.482538 11.189482
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.9080595                          -0.9454126 
+
+
+$`0.1 TSBA X3.40.0282mz.1.51min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.4520273 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.843698  2.747753 
+
+
+
+$`0.1 TSBA X4.43.0921mz.2.16min`
+$`0.1 TSBA X4.43.0921mz.2.16min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.25796, df = 2.5178, p-value = 0.816
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -25.72659  29.75033
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -0.160572                           -2.172442 
+
+
+$`0.1 TSBA X4.43.0921mz.2.16min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.2106243 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.062610  2.483859 
+
+
+
+$`0.1 TSBA X5.45.1039mz.2.19min`
+$`0.1 TSBA X5.45.1039mz.2.19min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.88956, df = 3.0492, p-value = 0.4383
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -23.43756  13.12436
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -4.2362739                           0.9203272 
+
+
+$`0.1 TSBA X5.45.1039mz.2.19min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.7263191 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.066828  1.614190 
+
+
+
+$`0.1 TSBA X7.58.0824mz.2.25min`
+$`0.1 TSBA X7.58.0824mz.2.25min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.25139, df = 3.5341, p-value = 0.8154
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -11.650908   9.807875
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -3.007371                           -2.085854 
+
+
+$`0.1 TSBA X7.58.0824mz.2.25min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.2052551 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.478174  2.067664 
+
+
+
+$`0.1 TSBA X8.62.0393mz.2.35min`
+$`0.1 TSBA X8.62.0393mz.2.35min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.5762, df = 2.1247, p-value = 0.2485
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.326023  2.793842
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.4856996                           0.2803911 
+
+
+$`0.1 TSBA X8.62.0393mz.2.35min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.286934 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.777520  1.203652 
+
+
+
+$`0.1 TSBA X9.59.0753mz.2.39min`
+$`0.1 TSBA X9.59.0753mz.2.39min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0238, df = 2.1331, p-value = 0.4078
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.558017  9.312199
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           0.578209                           -1.298882 
+
+
+$`0.1 TSBA X9.59.0753mz.2.39min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.835945 (large)
+95 percent confidence interval:
+   lower    upper 
+-1.52795  3.19984 
+
+
+
+$`0.1 TSBA X10.75.0406mz.2.46min`
+$`0.1 TSBA X10.75.0406mz.2.46min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.5265, df = 2.0789, p-value = 0.2619
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.014237  8.685759
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         2.30442049                         -0.03134081 
+
+
+$`0.1 TSBA X10.75.0406mz.2.46min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.246351 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.230942  3.723643 
+
+
+
+$`0.1 TSBA X11.45.0926mz.2.49min`
+$`0.1 TSBA X11.45.0926mz.2.49min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.73188, df = 3.3378, p-value = 0.5123
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -25.03828  15.23790
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.651562                            3.248633 
+
+
+$`0.1 TSBA X11.45.0926mz.2.49min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.5975767 (medium)
+95 percent confidence interval:
+    lower     upper 
+-2.914578  1.719424 
+
+
+
+$`0.1 TSBA X12.43.0922mz.2.59min`
+$`0.1 TSBA X12.43.0922mz.2.59min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.42153, df = 2.0008, p-value = 0.7143
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -14.11108  17.17767
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.412712                           -2.946008 
+
+
+$`0.1 TSBA X12.43.0922mz.2.59min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.3441782 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.939502  2.627858 
+
+
+
+$`0.1 TSBA X13.43.0924mz.2.66min`
+$`0.1 TSBA X13.43.0924mz.2.66min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.4694, df = 3.8658, p-value = 0.218
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.581952  2.695161
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.291742                            1.651653 
+
+
+$`0.1 TSBA X13.43.0924mz.2.66min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.199762 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.662235  1.262710 
+
+
+
+$`0.1 TSBA X15.132.0074mz.2.76min`
+$`0.1 TSBA X15.132.0074mz.2.76min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.77515, df = 3.9766, p-value = 0.4818
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.197830  3.894907
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.725067                           -2.573605 
+
+
+$`0.1 TSBA X15.132.0074mz.2.76min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6329069 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.690113  2.955927 
+
+
+
+$`0.1 TSBA X17.40.0274mz.2.94min`
+$`0.1 TSBA X17.40.0274mz.2.94min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 3.6269, df = 2.5279, p-value = 0.04759
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ 0.04206829 3.75505073
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.7966173                          -1.1019422 
+
+
+$`0.1 TSBA X17.40.0274mz.2.94min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.961378 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.3207981  6.2435544 
+
+
+
+$`0.1 TSBA X19.78.0714mz.3.10min`
+$`0.1 TSBA X19.78.0714mz.3.10min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -2.2977, df = 3.6712, p-value = 0.08908
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.592776  0.514408
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.2087256                           0.8304585 
+
+
+$`0.1 TSBA X19.78.0714mz.3.10min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.876054 (large)
+95 percent confidence interval:
+     lower      upper 
+-4.5963539  0.8442457 
+
+
+
+$`0.1 TSBA X20.44.0499mz.3.25min`
+$`0.1 TSBA X20.44.0499mz.3.25min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.81581, df = 3.9933, p-value = 0.4605
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.838144  3.366398
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.1269732                          -0.6371538 
+
+
+$`0.1 TSBA X20.44.0499mz.3.25min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6661045 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.662870  2.995079 
+
+
+
+$`0.1 TSBA X22.45.0662mz.3.30min`
+$`0.1 TSBA X22.45.0662mz.3.30min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.61602, df = 2.4602, p-value = 0.5901
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.414269 11.869374
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.7766572                          -0.9508954 
+
+
+$`0.1 TSBA X22.45.0662mz.3.30min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.5029779 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.799545  2.805501 
+
+
+
+$`0.1 TSBA X25.40.0259mz.3.69min`
+$`0.1 TSBA X25.40.0259mz.3.69min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.6805, df = 3.6111, p-value = 0.1758
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.052934  1.876097
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.017928                            1.570491 
+
+
+$`0.1 TSBA X25.40.0259mz.3.69min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.372083 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.891699  1.147533 
+
+
+
+$`0.1 TSBA X26.40.0256mz.3.84min`
+$`0.1 TSBA X26.40.0256mz.3.84min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.46288, df = 3.564, p-value = 0.6703
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.740302  4.893376
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.3737790                          -0.4503159 
+
+
+$`0.1 TSBA X26.40.0256mz.3.84min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.3779411 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.665048  1.909165 
+
+
+
+$`0.1 TSBA X27.39.0756mz.3.81min`
+$`0.1 TSBA X27.39.0756mz.3.81min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.053936  1.692172
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.8748909                          -1.1940090 
+
+
+$`0.1 TSBA X27.39.0756mz.3.81min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.543028  3.176021 
+
+
+
+$`0.1 TSBA X29.93.9965mz.3.95min`
+$`0.1 TSBA X29.93.9965mz.3.95min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -5.9429, df = 2.0957, p-value = 0.02432
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -12.155543  -2.202191
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -4.365132                            2.813734 
+
+
+$`0.1 TSBA X29.93.9965mz.3.95min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -4.852322 (large)
+95 percent confidence interval:
+     lower      upper 
+-9.3538920 -0.3507529 
+
+
+
+$`0.1 TSBA X30.43.0818mz.3.96min`
+$`0.1 TSBA X30.43.0818mz.3.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.89422, df = 2.0104, p-value = 0.4651
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -18.62801  12.19104
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.590051                            1.628436 
+
+
+$`0.1 TSBA X30.43.0818mz.3.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.7301259 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.071396  1.611144 
+
+
+
+$`0.1 TSBA X31.40.0252mz.4.15min`
+$`0.1 TSBA X31.40.0252mz.4.15min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.49083, df = 2.1541, p-value = 0.669
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.632083  5.920222
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.7929133                           0.1488440 
+
+
+$`0.1 TSBA X31.40.0252mz.4.15min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.40076 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.888841  2.690361 
+
+
+
+$`0.1 TSBA X32.43.1039mz.4.12min`
+$`0.1 TSBA X32.43.1039mz.4.12min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.76069, df = 3.8446, p-value = 0.4908
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.479182  5.453044
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.0301432                           0.9829257 
+
+
+$`0.1 TSBA X32.43.1039mz.4.12min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.6211039 (medium)
+95 percent confidence interval:
+    lower     upper 
+-2.942076  1.699868 
+
+
+
+$`0.1 TSBA X34.91.0629mz.4.23min`
+$`0.1 TSBA X34.91.0629mz.4.23min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.84267, df = 3.8455, p-value = 0.4486
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.483672 10.155231
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.255604                           -1.080175 
+
+
+$`0.1 TSBA X34.91.0629mz.4.23min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6880347 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.645032  3.021101 
+
+
+
+$`0.1 TSBA X35.60.0487mz.4.32min`
+$`0.1 TSBA X35.60.0487mz.4.32min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -15.921597   9.916453
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.307223                            1.695349 
+
+
+$`0.1 TSBA X35.60.0487mz.4.32min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.176021  1.543028 
+
+
+
+$`0.1 TSBA X36.43.0711mz.4.41min`
+$`0.1 TSBA X36.43.0711mz.4.41min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.88467, df = 2.0058, p-value = 0.4694
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -21.97391  14.46158
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.785453                            1.970710 
+
+
+$`0.1 TSBA X36.43.0711mz.4.41min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.7223263 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.062041  1.617389 
+
+
+
+$`0.1 TSBA X39.40.0253mz.4.49min`
+$`0.1 TSBA X39.40.0253mz.4.49min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.4351, df = 2.0334, p-value = 0.2858
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -14.284405   7.054278
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -2.212575                            1.402488 
+
+
+$`0.1 TSBA X39.40.0253mz.4.49min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.171772 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.625571  1.282027 
+
+
+
+$`0.1 TSBA X40.55.0688mz.4.51min`
+$`0.1 TSBA X40.55.0688mz.4.51min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.2429, df = 3.1593, p-value = 0.2982
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.526205 10.605320
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.384315                           -1.655242 
+
+
+$`0.1 TSBA X40.55.0688mz.4.51min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.014786 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.393662  3.423234 
+
+
+
+$`0.1 TSBA X43.41.0819mz.4.64min`
+$`0.1 TSBA X43.41.0819mz.4.64min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.3919, df = 3.8989, p-value = 0.2381
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.571305 10.606249
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.289233                           -1.228240 
+
+
+$`0.1 TSBA X43.41.0819mz.4.64min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.136472 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.306638  3.579582 
+
+
+
+$`0.1 TSBA X50.43.1058mz.4.86min`
+$`0.1 TSBA X50.43.1058mz.4.86min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.20616, df = 2.2894, p-value = 0.8536
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.563229  3.969629
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.5610214                          -0.7642216 
+
+
+$`0.1 TSBA X50.43.1058mz.4.86min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.1683295 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.102640  2.439298 
+
+
+
+$`0.1 TSBA X51.60.0427mz.5.11min`
+$`0.1 TSBA X51.60.0427mz.5.11min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -14.996868   9.340503
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.587029                            1.241153 
+
+
+$`0.1 TSBA X51.60.0427mz.5.11min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.176021  1.543028 
+
+
+
+$`0.1 TSBA X52.43.0992mz.5.15min`
+$`0.1 TSBA X52.43.0992mz.5.15min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.87851, df = 3.9986, p-value = 0.4293
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.612069  2.914515
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           0.349856                            1.698633 
+
+
+$`0.1 TSBA X52.43.0992mz.5.15min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.7172979 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.056019  1.621423 
+
+
+
+$`0.1 TSBA X56.43.0906mz.5.53min`
+$`0.1 TSBA X56.43.0906mz.5.53min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0034, df = 2.8297, p-value = 0.3936
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.454267 10.233557
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.333975                           -1.055670 
+
+
+$`0.1 TSBA X56.43.0906mz.5.53min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8192592 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.540880  3.179399 
+
+
+
+$`0.1 TSBA X57.40.0257mz.5.62min`
+$`0.1 TSBA X57.40.0257mz.5.62min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.2006, df = 3.9772, p-value = 0.2965
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.11147 10.35144
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.2663705                          -2.8536154 
+
+
+$`0.1 TSBA X57.40.0257mz.5.62min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.98029 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.418962  3.379542 
+
+
+
+$`0.1 TSBA X58.91.0555mz.5.65min`
+$`0.1 TSBA X58.91.0555mz.5.65min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.0059509, df = 3.9446, p-value = 0.9955
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.797319  3.813541
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.2978247                           0.2897135 
+
+
+$`0.1 TSBA X58.91.0555mz.5.65min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.004858878 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.262102  2.271820 
+
+
+
+$`0.1 TSBA X60.60.0465mz.5.73min`
+$`0.1 TSBA X60.60.0465mz.5.73min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.87714, df = 2.0546, p-value = 0.4708
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -19.45751  12.72760
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.740238                            1.624719 
+
+
+$`0.1 TSBA X60.60.0465mz.5.73min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.7161841 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.054686  1.622318 
+
+
+
+$`0.1 TSBA X61.44.0420mz.5.82min`
+$`0.1 TSBA X61.44.0420mz.5.82min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.6897, df = 3.2924, p-value = 0.1815
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.290511  4.548316
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.9506518                          -0.6782504 
+
+
+$`0.1 TSBA X61.44.0420mz.5.82min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.379637 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.142627  3.901902 
+
+
+
+$`0.1 TSBA X62.40.0252mz.5.84min`
+$`0.1 TSBA X62.40.0252mz.5.84min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.1995, df = 2.8393, p-value = 0.3208
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -11.235858   5.227617
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -2.280013                            0.724108 
+
+
+$`0.1 TSBA X62.40.0252mz.5.84min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.9793886 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.378405  1.419627 
+
+
+
+$`0.1 TSBA X63.43.0847mz.5.96min`
+$`0.1 TSBA X63.43.0847mz.5.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.0385, df = 2.334, p-value = 0.1598
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.955351  9.941306
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.002372                           -2.490605 
+
+
+$`0.1 TSBA X63.43.0847mz.5.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.66442 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.9659221  4.2947622 
+
+
+
+$`0.1 TSBA X64.104.0610mz.6.00min`
+$`0.1 TSBA X64.104.0610mz.6.00min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.2289, df = 2.0492, p-value = 0.3415
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.966594 10.893645
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.3596209                          -2.1039047 
+
+
+$`0.1 TSBA X64.104.0610mz.6.00min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.003358 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.402012  3.408728 
+
+
+
+$`0.1 TSBA X65.91.0517mz.6.03min`
+$`0.1 TSBA X65.91.0517mz.6.03min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.8212, df = 3.0721, p-value = 0.164
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.500287  5.641791
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.2867289                          -0.7840233 
+
+
+$`0.1 TSBA X65.91.0517mz.6.03min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.486979 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.074170  4.048128 
+
+
+
+$`0.1 TSBA X68.43.0861mz.6.09min`
+$`0.1 TSBA X68.43.0861mz.6.09min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.33441, df = 2.1907, p-value = 0.7674
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -11.699213   9.878378
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.9523881                          -0.0419706 
+
+
+$`0.1 TSBA X68.43.0861mz.6.09min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.2730428 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.550539  2.004454 
+
+
+
+$`0.1 TSBA X69.44.0532mz.6.12min`
+$`0.1 TSBA X69.44.0532mz.6.12min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.41019, df = 3.3478, p-value = 0.7065
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.212973  6.239135
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.3504053                          -0.3634863 
+
+
+$`0.1 TSBA X69.44.0532mz.6.12min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.3349197 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.617715  1.947876 
+
+
+
+$`0.1 TSBA X72.42.0885mz.6.35min`
+$`0.1 TSBA X72.42.0885mz.6.35min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.7557, df = 3.2651, p-value = 0.1699
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.970079  7.351424
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.1974933                          -2.8881659 
+
+
+$`0.1 TSBA X72.42.0885mz.6.35min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.433503 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.107985  3.974990 
+
+
+
+$`0.1 TSBA X74.78.0428mz.6.40min`
+$`0.1 TSBA X74.78.0428mz.6.40min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.59079, df = 3.8812, p-value = 0.5873
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.9172388  0.5985794
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.681268                           -1.521938 
+
+
+$`0.1 TSBA X74.78.0428mz.6.40min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.4823749 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.782065  1.817315 
+
+
+
+$`0.1 TSBA X76.40.0253mz.6.67min`
+$`0.1 TSBA X76.40.0253mz.6.67min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.21037, df = 2.4061, p-value = 0.8499
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.698709 10.875986
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.7980805                           0.2094419 
+
+
+$`0.1 TSBA X76.40.0253mz.6.67min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.1717656 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.099369  2.442900 
+
+
+
+$`0.1 TSBA X77.209.0077mz.6.86min`
+$`0.1 TSBA X77.209.0077mz.6.86min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.84809, df = 2.4712, p-value = 0.4706
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.549838 10.580199
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.1192329                          -1.8959476 
+
+
+$`0.1 TSBA X77.209.0077mz.6.86min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.692466 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.641443  3.026374 
+
+
+
+$`0.1 TSBA X79.43.0779mz.6.96min`
+$`0.1 TSBA X79.43.0779mz.6.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0333, df = 2.0777, p-value = 0.4066
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.841522  6.387040
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.076904                           -2.349663 
+
+
+$`0.1 TSBA X79.43.0779mz.6.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8436775 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.521982  3.209337 
+
+
+
+$`0.1 TSBA X81.40.0253mz.7.03min`
+$`0.1 TSBA X81.40.0253mz.7.03min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.15763, df = 2.08, p-value = 0.8887
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.046499  6.530542
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.297126                            1.555104 
+
+
+$`0.1 TSBA X81.40.0253mz.7.03min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.1287028 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.398006  2.140601 
+
+
+
+$`0.1 TSBA X85.106.0461mz.7.10min`
+$`0.1 TSBA X85.106.0461mz.7.10min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.7522, df = 2.1501, p-value = 0.1022
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.37337 17.93622
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.222259                           -5.059165 
+
+
+$`0.1 TSBA X85.106.0461mz.7.10min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.247201 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.6481568  5.1425594 
+
+
+
+$`0.1 TSBA X88.125.9527mz.7.26min`
+$`0.1 TSBA X88.125.9527mz.7.26min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -4.0987, df = 2.1414, p-value = 0.04865
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.84518812 -0.06907976
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -2.882464                            2.074670 
+
+
+$`0.1 TSBA X88.125.9527mz.7.26min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -3.346599 (large)
+95 percent confidence interval:
+     lower      upper 
+-6.8585305  0.1653318 
+
+
+
+$`0.1 TSBA X90.94.0505mz.7.39min`
+$`0.1 TSBA X90.94.0505mz.7.39min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.38646, df = 2.5282, p-value = 0.7293
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -10.08976  12.55781
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.059892                           -2.293913 
+
+
+$`0.1 TSBA X90.94.0505mz.7.39min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.3155417 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.965480  2.596563 
+
+
+
+$`0.1 TSBA X91.43.0824mz.7.47min`
+$`0.1 TSBA X91.43.0824mz.7.47min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0194, df = 2.9941, p-value = 0.3832
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.296832  8.340313
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.4349287                          -2.4566692 
+
+
+$`0.1 TSBA X91.43.0824mz.7.47min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8323454 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.530734  3.195425 
+
+
+
+$`0.1 TSBA X95.57.0847mz.7.49min`
+$`0.1 TSBA X95.57.0847mz.7.49min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.1751, df = 2.4384, p-value = 0.8745
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.816555  6.190840
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                        -0.26716102                          0.04569612 
+
+
+$`0.1 TSBA X95.57.0847mz.7.49min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.1429722 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.412824  2.126880 
+
+
+
+$`0.1 TSBA X96.58.0600mz.7.53min`
+$`0.1 TSBA X96.58.0600mz.7.53min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.67889, df = 3.9991, p-value = 0.5345
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.813487  6.281721
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -0.518751                           -1.752868 
+
+
+$`0.1 TSBA X96.58.0600mz.7.53min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.5543124 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.755770  2.864395 
+
+
+
+$`0.1 TSBA X102.103.0400mz.7.49min`
+$`0.1 TSBA X102.103.0400mz.7.49min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.91085, df = 2.0631, p-value = 0.456
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.446416  6.924965
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.782866                           -3.022141 
+
+
+$`0.1 TSBA X102.103.0400mz.7.49min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.7437086 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.600306  3.087723 
+
+
+
+$`0.1 TSBA X107.118.0253mz.7.68min`
+$`0.1 TSBA X107.118.0253mz.7.68min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.1578, df = 2.3543, p-value = 0.3509
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.052858  3.895150
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.682789                           -2.603935 
+
+
+$`0.1 TSBA X107.118.0253mz.7.68min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.9453167 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.444903  3.335537 
+
+
+
+$`0.1 TSBA X108.84.1018mz.7.71min`
+$`0.1 TSBA X108.84.1018mz.7.71min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.0022, df = 2, p-value = 0.1832
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.873318  7.874838
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -0.697142                           -3.197902 
+
+
+$`0.1 TSBA X108.84.1018mz.7.71min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.634778 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.9835952  4.2531510 
+
+
+
+$`0.1 TSBA X115.57.0926mz.7.86min`
+$`0.1 TSBA X115.57.0926mz.7.86min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.9266, df = 2.0306, p-value = 0.192
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.30575  6.14438
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.1101159                          -1.8091991 
+
+
+$`0.1 TSBA X115.57.0926mz.7.86min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.573039 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.020926  4.167004 
+
+
+
+$`0.1 TSBA X118.57.0905mz.8.00min`
+$`0.1 TSBA X118.57.0905mz.8.00min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.8115, df = 2.0682, p-value = 0.4999
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.439954 14.002599
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.0188856                          -0.2624367 
+
+
+$`0.1 TSBA X118.57.0905mz.8.00min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6625876 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.665742  2.990918 
+
+
+
+$`0.1 TSBA X121.71.0874mz.7.96min`
+$`0.1 TSBA X121.71.0874mz.7.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.1686, df = 2.0352, p-value = 0.3612
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.452694 11.375795
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.105589                           -1.355962 
+
+
+$`0.1 TSBA X121.71.0874mz.7.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.9541732 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.438306  3.346653 
+
+
+
+$`0.1 TSBA X123.119.0773mz.8.09min`
+$`0.1 TSBA X123.119.0773mz.8.09min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.075718, df = 2.9809, p-value = 0.9444
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.592861  3.426458
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -2.695548                           -2.612347 
+
+
+$`0.1 TSBA X123.119.0773mz.8.09min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.06182333 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.329323  2.205676 
+
+
+
+$`0.1 TSBA X125.57.0968mz.8.13min`
+$`0.1 TSBA X125.57.0968mz.8.13min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.070349, df = 3.7473, p-value = 0.9475
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.974752  7.590787
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.0779555                          -0.8859731 
+
+
+$`0.1 TSBA X125.57.0968mz.8.13min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.05743946 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.324865  2.209986 
+
+
+
+$`0.1 TSBA X130.68.0841mz.8.16min`
+$`0.1 TSBA X130.68.0841mz.8.16min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.5797, df = 2.0044, p-value = 0.2547
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.564660  5.550304
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.1235176                          -1.3693046 
+
+
+$`0.1 TSBA X130.68.0841mz.8.16min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.289828 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.201720  3.781376 
+
+
+
+$`0.1 TSBA X133.91.0604mz.8.41min`
+$`0.1 TSBA X133.91.0604mz.8.41min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 4.7132, df = 2.1108, p-value = 0.03797
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+  0.7783932 11.0571951
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.398953                           -3.518841 
+
+
+$`0.1 TSBA X133.91.0604mz.8.41min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 3.848281 (large)
+95 percent confidence interval:
+     lower      upper 
+0.02043792 7.67612425 
+
+
+
+$`0.1 TSBA X134.43.1014mz.8.55min`
+$`0.1 TSBA X134.43.1014mz.8.55min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.25021, df = 2.1642, p-value = 0.8242
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.723669  5.050492
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.2046461                           0.1319426 
+
+
+$`0.1 TSBA X134.43.1014mz.8.55min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.2042933 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.477157  2.068570 
+
+
+
+$`0.1 TSBA X137.42.0690mz.8.61min`
+$`0.1 TSBA X137.42.0690mz.8.61min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.2909, df = 2.8135, p-value = 0.1117
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.485850  8.197777
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.167536                           -2.188427 
+
+
+$`0.1 TSBA X137.42.0690mz.8.61min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.870515 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.8473335  4.5883630 
+
+
+
+$`0.1 TSBA X139.57.0833mz.8.74min`
+$`0.1 TSBA X139.57.0833mz.8.74min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.0856, df = 2.0017, p-value = 0.1722
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.479991 10.037967
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.7754959                          -2.5034923 
+
+
+$`0.1 TSBA X139.57.0833mz.8.74min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.702926 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.9432022  4.3490538 
+
+
+
+$`0.1 TSBA X140.105.0356mz.8.78min`
+$`0.1 TSBA X140.105.0356mz.8.78min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.826, df = 2.1339, p-value = 0.2014
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.173536 13.653701
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.5500884                          -4.7901710 
+
+
+$`0.1 TSBA X140.105.0356mz.8.78min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.490954 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.071679  4.053587 
+
+
+
+$`0.1 TSBA X142.40.0262mz.8.84min`
+$`0.1 TSBA X142.40.0262mz.8.84min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.11087, df = 2.3413, p-value = 0.9205
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -12.47631  11.76052
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.2947398                          -0.9368487 
+
+
+$`0.1 TSBA X142.40.0262mz.8.84min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.09052394 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.358643  2.177595 
+
+
+
+$`0.1 TSBA X147.43.0790mz.8.96min`
+$`0.1 TSBA X147.43.0790mz.8.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.98166, df = 2.017, p-value = 0.429
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.939449  7.890304
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         0.01108626                         -1.46434097 
+
+
+$`0.1 TSBA X147.43.0790mz.8.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8015181 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.554705  3.157741 
+
+
+
+$`0.1 TSBA X152.71.0875mz.9.24min`
+$`0.1 TSBA X152.71.0875mz.9.24min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.22697, df = 2.7358, p-value = 0.8363
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.415388  6.199113
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         0.30251258                         -0.08934985 
+
+
+$`0.1 TSBA X152.71.0875mz.9.24min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.1853164 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.086502  2.457135 
+
+
+
+$`0.1 TSBA X153.41.0930mz.9.30min`
+$`0.1 TSBA X153.41.0930mz.9.30min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.561, df = 2.0638, p-value = 0.2551
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.068513 13.309345
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.4047606                          -3.2156557 
+
+
+$`0.1 TSBA X153.41.0930mz.9.30min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.274583 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.211920  3.761085 
+
+
+
+$`0.1 TSBA X174.55.0638mz.10.20min`
+$`0.1 TSBA X174.55.0638mz.10.20min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.6532, df = 2.4423, p-value = 0.09541
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.8110853  5.1908985
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.1808686                          -2.0090380 
+
+
+$`0.1 TSBA X174.55.0638mz.10.20min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.166292 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.6891774  5.0217622 
+
+
+
+$`0.1 TSBA X177.58.0584mz.10.62min`
+$`0.1 TSBA X177.58.0584mz.10.62min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.63283, df = 2.4382, p-value = 0.5811
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.919346  2.054675
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -2.375817                           -1.943482 
+
+
+$`0.1 TSBA X177.58.0584mz.10.62min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.5167006 (medium)
+95 percent confidence interval:
+    lower     upper 
+-2.821175  1.787774 
+
+
+
+$`0.1 TSBA X179.85.0890mz.10.69min`
+$`0.1 TSBA X179.85.0890mz.10.69min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.4972, df = 3.5622, p-value = 0.07465
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.5784135  7.4704031
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.526207                           -1.919788 
+
+
+$`0.1 TSBA X179.85.0890mz.10.69min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.038938 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.7556414  4.8335178 
+
+
+
+$`0.1 TSBA X180.57.0872mz.10.73min`
+$`0.1 TSBA X180.57.0872mz.10.73min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.58601, df = 2.4215, p-value = 0.6079
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.187545  9.928833
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.412386                            1.041742 
+
+
+$`0.1 TSBA X180.57.0872mz.10.73min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.4784733 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.820693  2.777639 
+
+
+
+$`0.1 TSBA X182.57.0891mz.10.80min`
+$`0.1 TSBA X182.57.0891mz.10.80min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.59347, df = 2.2671, p-value = 0.6067
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -10.25759  13.99447
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.8111615                          -2.6796045 
+
+
+$`0.1 TSBA X182.57.0891mz.10.80min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.4845681 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.815418  2.784554 
+
+
+
+$`0.1 TSBA X185.57.0810mz.11.00min`
+$`0.1 TSBA X185.57.0810mz.11.00min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.47245, df = 2.3151, p-value = 0.6775
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.707304  7.554085
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.3266183                           0.7499912 
+
+
+$`0.1 TSBA X185.57.0810mz.11.00min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.385757 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.673702  1.902188 
+
+
+
+$`0.1 TSBA X186.135.0025mz.11.22min`
+$`0.1 TSBA X186.135.0025mz.11.22min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.34802, df = 3.7609, p-value = 0.7464
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.401654  4.348954
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -3.286054                           -3.759703 
+
+
+$`0.1 TSBA X186.135.0025mz.11.22min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.2841596 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.994210  2.562529 
+
+
+
+$`0.1 TSBA X199.57.0897mz.11.85min`
+$`0.1 TSBA X199.57.0897mz.11.85min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.2666, df = 3.6555, p-value = 0.28
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.771819  4.549172
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.2374987                          -1.6261753 
+
+
+$`0.1 TSBA X199.57.0897mz.11.85min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.034207 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.379542  3.447956 
+
+
+
+$`0.1 TSBA X204.55.0737mz.12.22min`
+$`0.1 TSBA X204.55.0737mz.12.22min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.071573, df = 3.0738, p-value = 0.9473
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.628895  6.938177
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.003873                           -1.158514 
+
+
+$`0.1 TSBA X204.55.0737mz.12.22min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.0584393 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.209002  2.325881 
+
+
+
+$`0.1 TSBA X217.85.0376mz.13.07min`
+$`0.1 TSBA X217.85.0376mz.13.07min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.55335, df = 2.188, p-value = 0.6314
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.727166  7.345735
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -2.911764                           -1.721049 
+
+
+$`0.1 TSBA X217.85.0376mz.13.07min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.4518072 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.747505  1.843891 
+
+
+
+$`0.1 TSBA X218.55.0811mz.13.35min`
+$`0.1 TSBA X218.55.0811mz.13.35min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.348210  1.462536
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.714911                           -1.272074 
+
+
+$`0.1 TSBA X218.55.0811mz.13.35min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.176021  1.543028 
+
+
+
+$`0.1 TSBA X221.57.0985mz.13.45min`
+$`0.1 TSBA X221.57.0985mz.13.45min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.5632, df = 2.5548, p-value = 0.2313
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.745956 12.326738
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.929922                           -1.860468 
+
+
+$`0.1 TSBA X221.57.0985mz.13.45min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.276324 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.210752  3.763401 
+
+
+
+$`0.1 TSBA X226.55.0728mz.13.60min`
+$`0.1 TSBA X226.55.0728mz.13.60min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.44815, df = 3.8247, p-value = 0.6783
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.107523  5.654911
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.9597378                          -1.7334320 
+
+
+$`0.1 TSBA X226.55.0728mz.13.60min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.365913 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.919937  2.651763 
+
+
+
+$`0.1 TSBA X228.43.0710mz.14.18min`
+$`0.1 TSBA X228.43.0710mz.14.18min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.014841, df = 3.3205, p-value = 0.989
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -10.51598  10.62000
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.7800413                          -0.8320517 
+
+
+$`0.1 TSBA X228.43.0710mz.14.18min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.01211766 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.254861  2.279096 
+
+
+
+$`0.1 TSBA X231.57.0724mz.14.44min`
+$`0.1 TSBA X231.57.0724mz.14.44min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.793932  6.099957
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.1603299                           0.6866573 
+
+
+$`0.1 TSBA X231.57.0724mz.14.44min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.176021  1.543028 
+
+
+
+$`0.1 TSBA X235.57.0983mz.14.71min`
+$`0.1 TSBA X235.57.0983mz.14.71min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.1538, df = 3.2681, p-value = 0.3259
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.143594 15.883936
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          3.4493633                          -0.9208079 
+
+
+$`0.1 TSBA X235.57.0983mz.14.71min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.9420355 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.447352  3.331423 
+
+
+
+$`0.1 TSBA X239.169.0631mz.15.11min`
+$`0.1 TSBA X239.169.0631mz.15.11min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.343721 15.002033
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.8521496                          -0.9770067 
+
+
+$`0.1 TSBA X239.169.0631mz.15.11min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.543028  3.176021 
+
+
+
+$`0.1 TSBA X241.57.1016mz.15.91min`
+$`0.1 TSBA X241.57.1016mz.15.91min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.4091, df = 2.582, p-value = 0.2672
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.060192  7.195571
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.073554                           -3.141244 
+
+
+$`0.1 TSBA X241.57.1016mz.15.91min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.150562 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.296780  3.597905 
+
+
+
+$`0.1 TSBA X244.149.0190mz.15.96min`
+$`0.1 TSBA X244.149.0190mz.15.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.10079, df = 2.6802, p-value = 0.9268
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -14.24607  15.11428
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.3667967                          -0.8009007 
+
+
+$`0.1 TSBA X244.149.0190mz.15.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.0822953 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.185622  2.350213 
+
+
+
+$`0.1 TSBA X245.71.0788mz.15.96min`
+$`0.1 TSBA X245.71.0788mz.15.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.18262, df = 2.7008, p-value = 0.8679
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.222902  6.931212
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.310634                           -1.664789 
+
+
+$`0.1 TSBA X245.71.0788mz.15.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.1491102 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.120996  2.419216 
+
+
+
+$`0.1 TSBA X251.105.0200mz.16.46min`
+$`0.1 TSBA X251.105.0200mz.16.46min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.21131, df = 2.6989, p-value = 0.8476
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -11.040915   9.746327
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.8176243                          -0.1703306 
+
+
+$`0.1 TSBA X251.105.0200mz.16.46min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.1725361 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.443708  2.098636 
+
+
+
+$`0.1 TSBA X252.41.0788mz.16.59min`
+$`0.1 TSBA X252.41.0788mz.16.59min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.736123  2.326971
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.6453434                          -0.9407671 
+
+
+$`0.1 TSBA X252.41.0788mz.16.59min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.176021  1.543028 
+
+
+
+$`0.1 TSBA X256.57.0981mz.17.05min`
+$`0.1 TSBA X256.57.0981mz.17.05min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.0146, df = 2.689, p-value = 0.1479
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.24210 12.66355
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.321545                           -2.389182 
+
+
+$`0.1 TSBA X256.57.0981mz.17.05min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.644938 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.9775192  4.2673961 
+
+
+
+$`0.1 TSBA X260.99.0782mz.17.14min`
+$`0.1 TSBA X260.99.0782mz.17.14min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -15.203397   9.469136
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.069991                            1.797139 
+
+
+$`0.1 TSBA X260.99.0782mz.17.14min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.176021  1.543028 
+
+
+
+$`0.1 TSBA X264.221.1306mz.17.46min`
+$`0.1 TSBA X264.221.1306mz.17.46min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.24704, df = 2.1256, p-value = 0.8267
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.919049  6.126814
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.7176371                          -0.3215196 
+
+
+$`0.1 TSBA X264.221.1306mz.17.46min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.2017061 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.474421  2.071009 
+
+
+
+$`0.1 TSBA X266.57.0867mz.18.13min`
+$`0.1 TSBA X266.57.0867mz.18.13min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.2276, df = 2.5592, p-value = 0.3205
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.634348  9.606039
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.272850                           -1.212995 
+
+
+$`0.1 TSBA X266.57.0867mz.18.13min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.002313 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.402777  3.407404 
+
+
+
+$`0.1 TSBA X272.149.0162mz.18.93min`
+$`0.1 TSBA X272.149.0162mz.18.93min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.39502, df = 2.3503, p-value = 0.7259
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -11.08961  13.70652
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.5212225                          -0.7872291 
+
+
+$`0.1 TSBA X272.149.0162mz.18.93min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.3225289 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.959120  2.604178 
+
+
+
+$`0.1 TSBA X274.57.0884mz.19.16min`
+$`0.1 TSBA X274.57.0884mz.19.16min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.75055, df = 2.864, p-value = 0.5098
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.297227 10.049710
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.3855041                          -0.4907374 
+
+
+$`0.1 TSBA X274.57.0884mz.19.16min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6128247 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.706733  2.932383 
+
+
+
+$`0.1 TSBA X277.149.0102mz.19.87min`
+$`0.1 TSBA X277.149.0102mz.19.87min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.7178, df = 3.8985, p-value = 0.5135
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.358916  9.044484
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.8241559                          -1.0186279 
+
+
+$`0.1 TSBA X277.149.0102mz.19.87min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.5860778 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.729036  2.901191 
+
+
+
+$`0.1 TSBA X280.57.0960mz.20.13min`
+$`0.1 TSBA X280.57.0960mz.20.13min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.91818, df = 3.0239, p-value = 0.4258
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.917243 10.746393
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.7230986                          -0.6914767 
+
+
+$`0.1 TSBA X280.57.0960mz.20.13min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.7496868 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.595551  3.094924 
+
+
+
+$`0.1 TSBA X284.57.0902mz.21.07min`
+$`0.1 TSBA X284.57.0902mz.21.07min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.1718, df = 3.8927, p-value = 0.308
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.931319 11.999077
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.7415759                          -0.7923029 
+
+
+$`0.1 TSBA X284.57.0902mz.21.07min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.9567363 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.436400  3.349873 
+
+
+
+$`0.1 TSBA X286.57.0938mz.21.97min`
+$`0.1 TSBA X286.57.0938mz.21.97min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.7726, df = 3.4873, p-value = 0.1614
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.31944 13.35686
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.244627                           -1.774083 
+
+
+$`0.1 TSBA X286.57.0938mz.21.97min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.447349 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.099175  3.993873 
+
+
+
+$`0.1 TSBA X288.57.0943mz.22.30min`
+$`0.1 TSBA X288.57.0943mz.22.30min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.1251, df = 3.3932, p-value = 0.3338
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.444733  9.826184
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         2.66037701                         -0.03034807 
+
+
+$`0.1 TSBA X288.57.0943mz.22.30min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.9186521 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.464879  3.302184 
+
+
+
+$`0.1 TSBA X292.57.0953mz.22.84min`
+$`0.1 TSBA X292.57.0953mz.22.84min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.5783, df = 3.5857, p-value = 0.1977
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.309959 14.543571
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.378597                           -1.738209 
+
+
+$`0.1 TSBA X292.57.0953mz.22.84min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.28865 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.202506  3.779806 
+
+
+
+$`0.1 TSBA X295.57.0928mz.23.67min`
+$`0.1 TSBA X295.57.0928mz.23.67min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.4553, df = 2.3362, p-value = 0.2656
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.387598 21.240638
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.474558                           -2.451962 
+
+
+$`0.1 TSBA X295.57.0928mz.23.67min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.188265 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.270624  3.647153 
+
+
+
+$`0.1 TSBA + AA X1.40.0326mz.1.27min`
+$`0.1 TSBA + AA X1.40.0326mz.1.27min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.3994, df = 2.6054, p-value = 0.72
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -13.09876  16.50268
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.5736048                          -0.1283559 
+
+
+$`0.1 TSBA + AA X1.40.0326mz.1.27min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.326112 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.955864  2.608088 
+
+
+
+$`0.1 TSBA + AA X2.40.0340mz.1.38min`
+$`0.1 TSBA + AA X2.40.0340mz.1.38min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.079302, df = 3.9908, p-value = 0.9406
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.560276  5.886941
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.122683                           -1.286016 
+
+
+$`0.1 TSBA + AA X2.40.0340mz.1.38min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.0647501 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.202802  2.332302 
+
+
+
+$`0.1 TSBA + AA X3.40.0282mz.1.51min`
+$`0.1 TSBA + AA X3.40.0282mz.1.51min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.9357, df = 2.105, p-value = 0.4439
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -12.098022   7.605069
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.104562                            1.141915 
+
+
+$`0.1 TSBA + AA X3.40.0282mz.1.51min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.7639921 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.112193  1.584209 
+
+
+
+$`0.1 TSBA + AA X4.43.0921mz.2.16min`
+$`0.1 TSBA + AA X4.43.0921mz.2.16min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.6685, df = 2.4473, p-value = 0.2139
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -18.46533   6.83674
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.740642                            4.073655 
+
+
+$`0.1 TSBA + AA X4.43.0921mz.2.16min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.362292 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.878493  1.153908 
+
+
+
+$`0.1 TSBA + AA X5.45.1039mz.2.19min`
+$`0.1 TSBA + AA X5.45.1039mz.2.19min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.58582, df = 2.3776, p-value = 0.6089
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -15.11898  10.99523
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.6270361                           2.6889105 
+
+
+$`0.1 TSBA + AA X5.45.1039mz.2.19min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.4783239 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.777470  1.820822 
+
+
+
+$`0.1 TSBA + AA X7.58.0824mz.2.25min`
+$`0.1 TSBA + AA X7.58.0824mz.2.25min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -2.7249, df = 2.5972, p-value = 0.08466
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.398312  1.022902
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.7027602                           4.3904649 
+
+
+$`0.1 TSBA + AA X7.58.0824mz.2.25min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -2.224864 (large)
+95 percent confidence interval:
+     lower      upper 
+-5.1091193  0.6593912 
+
+
+
+$`0.1 TSBA + AA X8.62.0393mz.2.35min`
+$`0.1 TSBA + AA X8.62.0393mz.2.35min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.4088, df = 2.8968, p-value = 0.2567
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.552992  8.997497
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.963780                           -0.758472 
+
+
+$`0.1 TSBA + AA X8.62.0393mz.2.35min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.150302 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.296962  3.597567 
+
+
+
+$`0.1 TSBA + AA X9.59.0753mz.2.39min`
+$`0.1 TSBA + AA X9.59.0753mz.2.39min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.96968, df = 2.4592, p-value = 0.4177
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.436014  4.869379
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.5313221                           1.2519954 
+
+
+$`0.1 TSBA + AA X9.59.0753mz.2.39min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.7917373 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.145835  1.562361 
+
+
+
+$`0.1 TSBA + AA X10.75.0406mz.2.46min`
+$`0.1 TSBA + AA X10.75.0406mz.2.46min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.14405, df = 3.957, p-value = 0.8925
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.911293  8.773203
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.9210623                          -1.3520174 
+
+
+$`0.1 TSBA + AA X10.75.0406mz.2.46min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.1176137 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.151303  2.386531 
+
+
+
+$`0.1 TSBA + AA X11.45.0926mz.2.49min`
+$`0.1 TSBA + AA X11.45.0926mz.2.49min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.7734, df = 3.1962, p-value = 0.4925
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.563657  2.131201
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -1.1566495                          -0.4404218 
+
+
+$`0.1 TSBA + AA X11.45.0926mz.2.49min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.6314797 (medium)
+95 percent confidence interval:
+   lower    upper 
+-2.95425  1.69129 
+
+
+
+$`0.1 TSBA + AA X12.43.0922mz.2.59min`
+$`0.1 TSBA + AA X12.43.0922mz.2.59min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.3283, df = 2.3829, p-value = 0.1248
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.244875 18.618060
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           5.772656                           -1.413936 
+
+
+$`0.1 TSBA + AA X12.43.0922mz.2.59min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.901044 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.8303778  4.6324661 
+
+
+
+$`0.1 TSBA + AA X13.43.0924mz.2.66min`
+$`0.1 TSBA + AA X13.43.0924mz.2.66min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.52273, df = 3.9042, p-value = 0.6294
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.168035 13.370469
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           0.870653                           -1.230564 
+
+
+$`0.1 TSBA + AA X13.43.0924mz.2.66min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.4268092 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.865814  2.719432 
+
+
+
+$`0.1 TSBA + AA X15.132.0074mz.2.76min`
+$`0.1 TSBA + AA X15.132.0074mz.2.76min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -2.0612, df = 2.3548, p-value = 0.1559
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -12.179678   3.520832
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                        -0.01537552                          4.31404742 
+
+
+$`0.1 TSBA + AA X15.132.0074mz.2.76min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.682969 (large)
+95 percent confidence interval:
+     lower      upper 
+-4.3208816  0.9549445 
+
+
+
+$`0.1 TSBA + AA X17.40.0274mz.2.94min`
+$`0.1 TSBA + AA X17.40.0274mz.2.94min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.133, df = 2.0564, p-value = 0.372
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.701568 15.148051
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.764283                           -1.458958 
+
+
+$`0.1 TSBA + AA X17.40.0274mz.2.94min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.9250671 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.460058  3.310192 
+
+
+
+$`0.1 TSBA + AA X19.78.0714mz.3.10min`
+$`0.1 TSBA + AA X19.78.0714mz.3.10min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.73082, df = 2.7748, p-value = 0.5217
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.413268 13.137818
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.3702710                          -0.9920038 
+
+
+$`0.1 TSBA + AA X19.78.0714mz.3.10min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.596711 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.720147  2.913569 
+
+
+
+$`0.1 TSBA + AA X20.44.0499mz.3.25min`
+$`0.1 TSBA + AA X20.44.0499mz.3.25min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.34458, df = 3.6976, p-value = 0.7491
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.749487  6.872753
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.2140933                           0.7242739 
+
+
+$`0.1 TSBA + AA X20.44.0499mz.3.25min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.2813474 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.559493  1.996798 
+
+
+
+$`0.1 TSBA + AA X22.45.0662mz.3.30min`
+$`0.1 TSBA + AA X22.45.0662mz.3.30min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.04, df = 2.2476, p-value = 0.3971
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.837865 15.313215
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.705957                           -1.531718 
+
+
+$`0.1 TSBA + AA X22.45.0662mz.3.30min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8491407 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.517774  3.216055 
+
+
+
+$`0.1 TSBA + AA X25.40.0259mz.3.69min`
+$`0.1 TSBA + AA X25.40.0259mz.3.69min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.04, df = 2.7142, p-value = 0.382
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.842725  2.564099
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.8459378                           0.2933753 
+
+
+$`0.1 TSBA + AA X25.40.0259mz.3.69min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8491801 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.216104  1.517744 
+
+
+
+$`0.1 TSBA + AA X26.40.0256mz.3.84min`
+$`0.1 TSBA + AA X26.40.0256mz.3.84min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.5802, df = 2.0744, p-value = 0.2505
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.591791  3.543239
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.3999095                           0.4241854 
+
+
+$`0.1 TSBA + AA X26.40.0256mz.3.84min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.290199 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.201472  3.781870 
+
+
+
+$`0.1 TSBA + AA X27.39.0756mz.3.81min`
+$`0.1 TSBA + AA X27.39.0756mz.3.81min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.565, df = 2.1945, p-value = 0.1133
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.070831  9.702059
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.9422570                          -0.8733571 
+
+
+$`0.1 TSBA + AA X27.39.0756mz.3.81min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.094353 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.7264287  4.9151356 
+
+
+
+$`0.1 TSBA + AA X29.93.9965mz.3.95min`
+$`0.1 TSBA + AA X29.93.9965mz.3.95min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -4.417, df = 2.0139, p-value = 0.04703
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -19.3251838  -0.3173106
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -4.134925                            5.686323 
+
+
+$`0.1 TSBA + AA X29.93.9965mz.3.95min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -3.606448 (large)
+95 percent confidence interval:
+      lower       upper 
+-7.27990539  0.06700909 
+
+
+
+$`0.1 TSBA + AA X30.43.0818mz.3.96min`
+$`0.1 TSBA + AA X30.43.0818mz.3.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.3761, df = 2.0289, p-value = 0.301
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.04506 13.80517
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.670836                           -1.709221 
+
+
+$`0.1 TSBA + AA X30.43.0818mz.3.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.123619 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.315669  3.562907 
+
+
+
+$`0.1 TSBA + AA X31.40.0252mz.4.15min`
+$`0.1 TSBA + AA X31.40.0252mz.4.15min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.81049, df = 2.7894, p-value = 0.481
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.325446  5.471057
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         0.06552403                         -1.00728131 
+
+
+$`0.1 TSBA + AA X31.40.0252mz.4.15min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6617626 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.666417  2.989942 
+
+
+
+$`0.1 TSBA + AA X32.43.1039mz.4.12min`
+$`0.1 TSBA + AA X32.43.1039mz.4.12min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.34224, df = 3.5895, p-value = 0.7513
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.685903  6.855745
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.4339308                           0.4811483 
+
+
+$`0.1 TSBA + AA X32.43.1039mz.4.12min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.279435 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.557429  1.998559 
+
+
+
+$`0.1 TSBA + AA X34.91.0629mz.4.23min`
+$`0.1 TSBA + AA X34.91.0629mz.4.23min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.44859, df = 3.8191, p-value = 0.678
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.357780  5.343778
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.5912148                           0.4157864 
+
+
+$`0.1 TSBA + AA X34.91.0629mz.4.23min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.3662713 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.652158  1.919615 
+
+
+
+$`0.1 TSBA + AA X35.60.0487mz.4.32min`
+$`0.1 TSBA + AA X35.60.0487mz.4.32min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.352766 11.805409
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           0.919098                           -1.307223 
+
+
+$`0.1 TSBA + AA X35.60.0487mz.4.32min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.543028  3.176021 
+
+
+
+$`0.1 TSBA + AA X36.43.0711mz.4.41min`
+$`0.1 TSBA + AA X36.43.0711mz.4.41min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0415, df = 2.011, p-value = 0.4065
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -10.31196  16.94441
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.565485                           -1.750742 
+
+
+$`0.1 TSBA + AA X36.43.0711mz.4.41min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8503906 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.516812  3.217594 
+
+
+
+$`0.1 TSBA + AA X39.40.0253mz.4.49min`
+$`0.1 TSBA + AA X39.40.0253mz.4.49min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.43401, df = 3.0232, p-value = 0.6934
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.533378  7.236442
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.1691904                           0.9792775 
+
+
+$`0.1 TSBA + AA X39.40.0253mz.4.49min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.3543661 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.639047  1.930315 
+
+
+
+$`0.1 TSBA + AA X40.55.0688mz.4.51min`
+$`0.1 TSBA + AA X40.55.0688mz.4.51min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0464, df = 3.0554, p-value = 0.371
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.6135668  1.2239951
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         0.28807074                         -0.01714341 
+
+
+$`0.1 TSBA + AA X40.55.0688mz.4.51min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8544075 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.513724  3.222539 
+
+
+
+$`0.1 TSBA + AA X43.41.0819mz.4.64min`
+$`0.1 TSBA + AA X43.41.0819mz.4.64min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.23399, df = 3.9989, p-value = 0.8265
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.317545  3.928120
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.3778526                          -0.6831402 
+
+
+$`0.1 TSBA + AA X43.41.0819mz.4.64min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.191052 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.081072  2.463176 
+
+
+
+$`0.1 TSBA + AA X50.43.1058mz.4.86min`
+$`0.1 TSBA + AA X50.43.1058mz.4.86min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.5691, df = 3.8081, p-value = 0.1952
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.456737  1.853309
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.4882356                           1.8134786 
+
+
+$`0.1 TSBA + AA X50.43.1058mz.4.86min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.281157 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.769829  1.207515 
+
+
+
+$`0.1 TSBA + AA X51.60.0427mz.5.11min`
+$`0.1 TSBA + AA X51.60.0427mz.5.11min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.6294, df = 2.0183, p-value = 0.5929
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.228678  4.346447
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.4523801                          -0.1065045 
+
+
+$`0.1 TSBA + AA X51.60.0427mz.5.11min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.513903 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.790170  2.817976 
+
+
+
+$`0.1 TSBA + AA X52.43.0992mz.5.15min`
+$`0.1 TSBA + AA X52.43.0992mz.5.15min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.9674, df = 3.0362, p-value = 0.1427
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.909202  1.608094
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -2.3495216                           0.3010326 
+
+
+$`0.1 TSBA + AA X52.43.0992mz.5.15min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.606406 (large)
+95 percent confidence interval:
+    lower     upper 
+-4.213474  1.000662 
+
+
+
+$`0.1 TSBA + AA X56.43.0906mz.5.53min`
+$`0.1 TSBA + AA X56.43.0906mz.5.53min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.13044, df = 3.8727, p-value = 0.9027
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.967339  6.547723
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                        0.005943308                        -0.284248674 
+
+
+$`0.1 TSBA + AA X56.43.0906mz.5.53min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.1065063 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.162058  2.375071 
+
+
+
+$`0.1 TSBA + AA X57.40.0257mz.5.62min`
+$`0.1 TSBA + AA X57.40.0257mz.5.62min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.060544, df = 2.9592, p-value = 0.9556
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.166108  3.048793
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.264294                            1.322951 
+
+
+$`0.1 TSBA + AA X57.40.0257mz.5.62min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.04943396 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.316738  2.217870 
+
+
+
+$`0.1 TSBA + AA X58.91.0555mz.5.65min`
+$`0.1 TSBA + AA X58.91.0555mz.5.65min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.091392, df = 3.4965, p-value = 0.9322
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.122033  4.386392
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.2276794                          -0.3598589 
+
+
+$`0.1 TSBA + AA X58.91.0555mz.5.65min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.07462097 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.193126  2.342368 
+
+
+
+$`0.1 TSBA + AA X60.60.0465mz.5.73min`
+$`0.1 TSBA + AA X60.60.0465mz.5.73min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 4.0717, df = 2, p-value = 0.05536
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.2544494  9.2279309
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.301130                           -2.185611 
+
+
+$`0.1 TSBA + AA X60.60.0465mz.5.73min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 3.324561 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.1738982  6.8230196 
+
+
+
+$`0.1 TSBA + AA X61.44.0420mz.5.82min`
+$`0.1 TSBA + AA X61.44.0420mz.5.82min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.56491, df = 2.215, p-value = 0.6241
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.574940  5.669351
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.6125979                           0.3401966 
+
+
+$`0.1 TSBA + AA X61.44.0420mz.5.82min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.4612466 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.758150  1.835657 
+
+
+
+$`0.1 TSBA + AA X62.40.0252mz.5.84min`
+$`0.1 TSBA + AA X62.40.0252mz.5.84min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.7858, df = 3.977, p-value = 0.1491
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.336355  0.509842
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.3213239                           1.2345806 
+
+
+$`0.1 TSBA + AA X62.40.0252mz.5.84min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.458112 (large)
+95 percent confidence interval:
+    lower     upper 
+-4.008577  1.092353 
+
+
+
+$`0.1 TSBA + AA X63.43.0847mz.5.96min`
+$`0.1 TSBA + AA X63.43.0847mz.5.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.020466, df = 2.2297, p-value = 0.9854
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.132629  7.058248
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.7255213                           0.7627116 
+
+
+$`0.1 TSBA + AA X63.43.0847mz.5.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.01671025 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.283708  2.250287 
+
+
+
+$`0.1 TSBA + AA X64.104.0610mz.6.00min`
+$`0.1 TSBA + AA X64.104.0610mz.6.00min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0569, df = 3.2904, p-value = 0.3619
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.087750  2.253434
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.163563                            0.580721 
+
+
+$`0.1 TSBA + AA X64.104.0610mz.6.00min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8629312 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.507185  3.233048 
+
+
+
+$`0.1 TSBA + AA X65.91.0517mz.6.03min`
+$`0.1 TSBA + AA X65.91.0517mz.6.03min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -2.0071, df = 3.7931, p-value = 0.119
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.4160593  0.7567282
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.166186                            0.663480 
+
+
+$`0.1 TSBA + AA X65.91.0517mz.6.03min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.638787 (large)
+95 percent confidence interval:
+     lower      upper 
+-4.2587701  0.9811952 
+
+
+
+$`0.1 TSBA + AA X68.43.0861mz.6.09min`
+$`0.1 TSBA + AA X68.43.0861mz.6.09min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.48554, df = 2.4961, p-value = 0.6667
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.324458  4.813309
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.1193920                           0.8749667 
+
+
+$`0.1 TSBA + AA X68.43.0861mz.6.09min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.3964407 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.685558  1.892677 
+
+
+
+$`0.1 TSBA + AA X69.44.0532mz.6.12min`
+$`0.1 TSBA + AA X69.44.0532mz.6.12min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.3425, df = 2.9984, p-value = 0.7546
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.594075  3.219553
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.0133152                           0.7005764 
+
+
+$`0.1 TSBA + AA X69.44.0532mz.6.12min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.2796467 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.998364  2.557658 
+
+
+
+$`0.1 TSBA + AA X71.108.0636mz.6.29min`
+$`0.1 TSBA + AA X71.108.0636mz.6.29min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.58922, df = 3.9739, p-value = 0.5876
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.874347  9.028961
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.983567                            1.406260 
+
+
+$`0.1 TSBA + AA X71.108.0636mz.6.29min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.4810964 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.818421  2.780614 
+
+
+
+$`0.1 TSBA + AA X72.42.0885mz.6.35min`
+$`0.1 TSBA + AA X72.42.0885mz.6.35min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.61877, df = 3.7234, p-value = 0.5719
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.676315  7.258739
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.1884357                           0.8972234 
+
+
+$`0.1 TSBA + AA X72.42.0885mz.6.35min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.5052216 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.797617  2.808061 
+
+
+
+$`0.1 TSBA + AA X74.78.0428mz.6.40min`
+$`0.1 TSBA + AA X74.78.0428mz.6.40min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.81802, df = 3.9456, p-value = 0.4599
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.850275  7.042041
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.3995447                           0.8036614 
+
+
+$`0.1 TSBA + AA X74.78.0428mz.6.40min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6679137 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.661394  2.997221 
+
+
+
+$`0.1 TSBA + AA X76.40.0253mz.6.67min`
+$`0.1 TSBA + AA X76.40.0253mz.6.67min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.8978, df = 3.2662, p-value = 0.1464
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.131818  9.212176
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.266328                           -2.273851 
+
+
+$`0.1 TSBA + AA X76.40.0253mz.6.67min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.549558 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.035312  4.134427 
+
+
+
+$`0.1 TSBA + AA X77.209.0077mz.6.86min`
+$`0.1 TSBA + AA X77.209.0077mz.6.86min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.1684, df = 2.5887, p-value = 0.3389
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.510699  3.032169
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.2687250                           0.5079898 
+
+
+$`0.1 TSBA + AA X77.209.0077mz.6.86min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.953971 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.438457  3.346399 
+
+
+
+$`0.1 TSBA + AA X79.43.0779mz.6.96min`
+$`0.1 TSBA + AA X79.43.0779mz.6.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.8065, df = 2.4805, p-value = 0.1875
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.941264  2.629399
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.3853171                           3.0412497 
+
+
+$`0.1 TSBA + AA X79.43.0779mz.6.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.474973 (large)
+95 percent confidence interval:
+    lower     upper 
+-4.031659  1.081712 
+
+
+
+$`0.1 TSBA + AA X81.40.0253mz.7.03min`
+$`0.1 TSBA + AA X81.40.0253mz.7.03min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.17565, df = 2.1551, p-value = 0.8757
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.030880  8.764927
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.242603                           -1.609627 
+
+
+$`0.1 TSBA + AA X81.40.0253mz.7.03min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.1434196 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.126451  2.413290 
+
+
+
+$`0.1 TSBA + AA X85.106.0461mz.7.10min`
+$`0.1 TSBA + AA X85.106.0461mz.7.10min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 3.4784, df = 2.2154, p-value = 0.0635
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.6493559 10.7495453
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.943500                           -1.106594 
+
+
+$`0.1 TSBA + AA X85.106.0461mz.7.10min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.840106 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.3724824  6.0526942 
+
+
+
+$`0.1 TSBA + AA X88.125.9527mz.7.26min`
+$`0.1 TSBA + AA X88.125.9527mz.7.26min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -4.8215, df = 3.4102, p-value = 0.01259
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.274369 -2.194330
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -2.463278                            3.271072 
+
+
+$`0.1 TSBA + AA X88.125.9527mz.7.26min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -3.936699 (large)
+95 percent confidence interval:
+     lower      upper 
+-7.8218714 -0.0515275 
+
+
+
+$`0.1 TSBA + AA X90.94.0505mz.7.39min`
+$`0.1 TSBA + AA X90.94.0505mz.7.39min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.044259, df = 3.4666, p-value = 0.9671
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.624591  5.795738
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.719689                            1.634116 
+
+
+$`0.1 TSBA + AA X90.94.0505mz.7.39min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.03613695 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.231006  2.303280 
+
+
+
+$`0.1 TSBA + AA X91.43.0824mz.7.47min`
+$`0.1 TSBA + AA X91.43.0824mz.7.47min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.414, df = 3.4072, p-value = 0.2419
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.695133  7.569059
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.6642805                           0.2273174 
+
+
+$`0.1 TSBA + AA X91.43.0824mz.7.47min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.15451 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.294027  3.603046 
+
+
+
+$`0.1 TSBA + AA X95.57.0847mz.7.49min`
+$`0.1 TSBA + AA X95.57.0847mz.7.49min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.1822, df = 2.7171, p-value = 0.8682
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.980202  6.265811
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.0678652                           0.2893301 
+
+
+$`0.1 TSBA + AA X95.57.0847mz.7.49min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.1487685 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.418860  2.121323 
+
+
+
+$`0.1 TSBA + AA X96.58.0600mz.7.53min`
+$`0.1 TSBA + AA X96.58.0600mz.7.53min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.43521, df = 3.9378, p-value = 0.6862
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.566148  1.874421
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.9628778                           1.3087410 
+
+
+$`0.1 TSBA + AA X96.58.0600mz.7.53min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.3553448 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.640123  1.929434 
+
+
+
+$`0.1 TSBA + AA X102.103.0400mz.7.49min`
+$`0.1 TSBA + AA X102.103.0400mz.7.49min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.95867, df = 2.9518, p-value = 0.4095
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.393015 13.683500
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          3.9751249                           0.8298826 
+
+
+$`0.1 TSBA + AA X102.103.0400mz.7.49min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.7827491 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.569417  3.134915 
+
+
+
+$`0.1 TSBA + AA X107.118.0253mz.7.68min`
+$`0.1 TSBA + AA X107.118.0253mz.7.68min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0173, df = 3.213, p-value = 0.3794
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.477423  8.923056
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.254770                            1.031954 
+
+
+$`0.1 TSBA + AA X107.118.0253mz.7.68min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8306024 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.532083  3.193288 
+
+
+
+$`0.1 TSBA + AA X108.84.1018mz.7.71min`
+$`0.1 TSBA + AA X108.84.1018mz.7.71min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.85036, df = 2.5357, p-value = 0.4678
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.660373  9.241083
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.842699                            1.052345 
+
+
+$`0.1 TSBA + AA X108.84.1018mz.7.71min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6943169 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.639945  3.028579 
+
+
+
+$`0.1 TSBA + AA X115.57.0926mz.7.86min`
+$`0.1 TSBA + AA X115.57.0926mz.7.86min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.91373, df = 2.0801, p-value = 0.4541
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.400375  2.172671
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.5426156                           1.1564676 
+
+
+$`0.1 TSBA + AA X115.57.0926mz.7.86min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.7460553 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.090549  1.598438 
+
+
+
+$`0.1 TSBA + AA X118.57.0905mz.8.00min`
+$`0.1 TSBA + AA X118.57.0905mz.8.00min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.012957, df = 3.8329, p-value = 0.9903
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.017493  1.008202
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.8805472                          -0.8759017 
+
+
+$`0.1 TSBA + AA X118.57.0905mz.8.00min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.01057894 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.277553  2.256395 
+
+
+
+$`0.1 TSBA + AA X121.71.0874mz.7.96min`
+$`0.1 TSBA + AA X121.71.0874mz.7.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1.7745, df = 2.595, p-value = 0.1882
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.149754  2.323197
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.081453                            1.331826 
+
+
+$`0.1 TSBA + AA X121.71.0874mz.7.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.448864 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.995941  1.098213 
+
+
+
+$`0.1 TSBA + AA X123.119.0773mz.8.09min`
+$`0.1 TSBA + AA X123.119.0773mz.8.09min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.86813, df = 2.4136, p-value = 0.463
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.38262 10.34082
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.643498                            1.664397 
+
+
+$`0.1 TSBA + AA X123.119.0773mz.8.09min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.7088231 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.628238  3.045884 
+
+
+
+$`0.1 TSBA + AA X125.57.0968mz.8.13min`
+$`0.1 TSBA + AA X125.57.0968mz.8.13min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -2.0237, df = 2.5647, p-value = 0.1515
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.154769  1.116418
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.2223767                           1.7415520 
+
+
+$`0.1 TSBA + AA X125.57.0968mz.8.13min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -1.652376 (large)
+95 percent confidence interval:
+     lower      upper 
+-4.2778355  0.9730836 
+
+
+
+$`0.1 TSBA + AA X130.68.0841mz.8.16min`
+$`0.1 TSBA + AA X130.68.0841mz.8.16min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.532, df = 3.0166, p-value = 0.2226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.9925596  2.8462085
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.0863057                           0.1594813 
+
+
+$`0.1 TSBA + AA X130.68.0841mz.8.16min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.250845 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.227902  3.729592 
+
+
+
+$`0.1 TSBA + AA X132.71.0619mz.8.36min`
+$`0.1 TSBA + AA X132.71.0619mz.8.36min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.57277, df = 2.834, p-value = 0.6091
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -6.828208  9.706355
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.1345062                           0.6954328 
+
+
+$`0.1 TSBA + AA X132.71.0619mz.8.36min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.4676683 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.830069  2.765406 
+
+
+
+$`0.1 TSBA + AA X133.91.0604mz.8.41min`
+$`0.1 TSBA + AA X133.91.0604mz.8.41min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 6.1698, df = 2.1713, p-value = 0.02064
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ 1.722539 8.042510
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.001206                           -1.881319 
+
+
+$`0.1 TSBA + AA X133.91.0604mz.8.41min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 5.037655 (large)
+95 percent confidence interval:
+    lower     upper 
+0.4071494 9.6681606 
+
+
+
+$`0.1 TSBA + AA X134.43.1014mz.8.55min`
+$`0.1 TSBA + AA X134.43.1014mz.8.55min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.23656, df = 3.7544, p-value = 0.8253
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.388043  2.868649
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                        -0.09349685                          0.16620031 
+
+
+$`0.1 TSBA + AA X134.43.1014mz.8.55min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.1931464 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.465384  2.079091 
+
+
+
+$`0.1 TSBA + AA X137.42.0690mz.8.61min`
+$`0.1 TSBA + AA X137.42.0690mz.8.61min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.1187, df = 2.612, p-value = 0.914
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.983675  8.549650
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.6519389                           0.3689518 
+
+
+$`0.1 TSBA + AA X137.42.0690mz.8.61min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.0969141 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.171374  2.365202 
+
+
+
+$`0.1 TSBA + AA X139.57.0833mz.8.74min`
+$`0.1 TSBA + AA X139.57.0833mz.8.74min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 3.195, df = 3.6697, p-value = 0.03734
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ 0.1675365 3.2078020
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         1.70783282                          0.02016355 
+
+
+$`0.1 TSBA + AA X139.57.0833mz.8.74min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.608705 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.4752475  5.6926578 
+
+
+
+$`0.1 TSBA + AA X140.105.0356mz.8.78min`
+$`0.1 TSBA + AA X140.105.0356mz.8.78min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.9488, df = 2.9964, p-value = 0.4128
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.352630  8.046846
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.593684                            1.746576 
+
+
+$`0.1 TSBA + AA X140.105.0356mz.8.78min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.774693 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.575759  3.125145 
+
+
+
+$`0.1 TSBA + AA X142.40.0262mz.8.84min`
+$`0.1 TSBA + AA X142.40.0262mz.8.84min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.36034, df = 2.7549, p-value = 0.7444
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -9.020249 11.195557
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.6596213                           0.5719671 
+
+
+$`0.1 TSBA + AA X142.40.0262mz.8.84min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.2942157 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.984974  2.573405 
+
+
+
+$`0.1 TSBA + AA X147.43.0790mz.8.96min`
+$`0.1 TSBA + AA X147.43.0790mz.8.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.53388, df = 3.9873, p-value = 0.6218
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.682284  2.495791
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.4300042                           1.0232505 
+
+
+$`0.1 TSBA + AA X147.43.0790mz.8.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.4359144 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.729637  1.857809 
+
+
+
+$`0.1 TSBA + AA X152.71.0875mz.9.24min`
+$`0.1 TSBA + AA X152.71.0875mz.9.24min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.4844, df = 2.0166, p-value = 0.6756
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.601809  6.052453
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.4939204                           0.2807576 
+
+
+$`0.1 TSBA + AA X152.71.0875mz.9.24min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.3955131 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.684528  1.893501 
+
+
+
+$`0.1 TSBA + AA X153.41.0930mz.9.30min`
+$`0.1 TSBA + AA X153.41.0930mz.9.30min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 3.1171, df = 2.6923, p-value = 0.06076
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.287080  6.648779
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.9958722                          -0.1849771 
+
+
+$`0.1 TSBA + AA X153.41.0930mz.9.30min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.545082 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.5045285  5.5946931 
+
+
+
+$`0.1 TSBA + AA X171.112.0852mz.10.12min`
+$`0.1 TSBA + AA X171.112.0852mz.10.12min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.64797, df = 2.8338, p-value = 0.5657
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.767595  8.595935
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.9844668                           0.5702972 
+
+
+$`0.1 TSBA + AA X171.112.0852mz.10.12min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.5290632 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.777212  2.835339 
+
+
+
+$`0.1 TSBA + AA X174.55.0638mz.10.20min`
+$`0.1 TSBA + AA X174.55.0638mz.10.20min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.2706, df = 2.7685, p-value = 0.1152
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.112760  5.845048
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.0971567                          -0.2689873 
+
+
+$`0.1 TSBA + AA X174.55.0638mz.10.20min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.853923 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.8566125  4.5644586 
+
+
+
+$`0.1 TSBA + AA X176.75.0531mz.10.37min`
+$`0.1 TSBA + AA X176.75.0531mz.10.37min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.87984, df = 3.1046, p-value = 0.4417
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.189338  9.260828
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         2.08341221                          0.04766709 
+
+
+$`0.1 TSBA + AA X176.75.0531mz.10.37min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.7183854 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.620550  3.057321 
+
+
+
+$`0.1 TSBA + AA X177.58.0584mz.10.62min`
+$`0.1 TSBA + AA X177.58.0584mz.10.62min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.76453, df = 2.7262, p-value = 0.5052
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -7.849464 12.454112
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.310812                            1.008487 
+
+
+$`0.1 TSBA + AA X177.58.0584mz.10.62min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6242383 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.697274  2.945751 
+
+
+
+$`0.1 TSBA + AA X179.85.0890mz.10.69min`
+$`0.1 TSBA + AA X179.85.0890mz.10.69min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.4421, df = 3.4031, p-value = 0.08222
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.146247  1.475408
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.5290807                          -0.1354997 
+
+
+$`0.1 TSBA + AA X179.85.0890mz.10.69min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.993939 (large)
+95 percent confidence interval:
+    lower     upper 
+-0.779704  4.767583 
+
+
+
+$`0.1 TSBA + AA X180.57.0872mz.10.73min`
+$`0.1 TSBA + AA X180.57.0872mz.10.73min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.061754  1.704724
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.566321                           -1.887806 
+
+
+$`0.1 TSBA + AA X180.57.0872mz.10.73min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.543028  3.176021 
+
+
+
+$`0.1 TSBA + AA X182.57.0891mz.10.80min`
+$`0.1 TSBA + AA X182.57.0891mz.10.80min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.595, df = 3.1174, p-value = 0.07763
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.5956713  6.5330335
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          3.2297235                           0.2610425 
+
+
+$`0.1 TSBA + AA X182.57.0891mz.10.80min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.118811 (large)
+95 percent confidence interval:
+    lower     upper 
+-0.713680  4.951303 
+
+
+
+$`0.1 TSBA + AA X185.57.0810mz.11.00min`
+$`0.1 TSBA + AA X185.57.0810mz.11.00min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.3413, df = 2.1345, p-value = 0.7636
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.8586457  1.0165520
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.1722099                          -0.2511630 
+
+
+$`0.1 TSBA + AA X185.57.0810mz.11.00min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.2786685 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.999266  2.556603 
+
+
+
+$`0.1 TSBA + AA X186.135.0025mz.11.22min`
+$`0.1 TSBA + AA X186.135.0025mz.11.22min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.71151, df = 2.79, p-value = 0.5316
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -11.54448  17.83671
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           5.095937                            1.949820 
+
+
+$`0.1 TSBA + AA X186.135.0025mz.11.22min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.5809447 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.733337  2.895227 
+
+
+
+$`0.1 TSBA + AA X199.57.0897mz.11.85min`
+$`0.1 TSBA + AA X199.57.0897mz.11.85min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 3.3712, df = 3.9906, p-value = 0.02811
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ 0.1925142 1.9993438
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.4798015                           0.3838725 
+
+
+$`0.1 TSBA + AA X199.57.0897mz.11.85min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.752589 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.4106853  5.9158629 
+
+
+
+$`0.1 TSBA + AA X204.55.0737mz.12.22min`
+$`0.1 TSBA + AA X204.55.0737mz.12.22min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.43523, df = 3.5803, p-value = 0.6883
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.769806  2.392393
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          1.2368405                           0.9255466 
+
+
+$`0.1 TSBA + AA X204.55.0737mz.12.22min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.3553637 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.929417  2.640144 
+
+
+
+$`0.1 TSBA + AA X217.85.0376mz.13.07min`
+$`0.1 TSBA + AA X217.85.0376mz.13.07min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.57443, df = 3.2492, p-value = 0.6031
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -8.675872 12.704286
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           3.323510                            1.309303 
+
+
+$`0.1 TSBA + AA X217.85.0376mz.13.07min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.4690209 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.828894  2.766935 
+
+
+
+$`0.1 TSBA + AA X218.55.0811mz.13.35min`
+$`0.1 TSBA + AA X218.55.0811mz.13.35min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0193, df = 3.9979, p-value = 0.3657
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.028338  6.540370
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          2.3715003                           0.6154845 
+
+
+$`0.1 TSBA + AA X218.55.0811mz.13.35min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8322205 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.530830  3.195272 
+
+
+
+$`0.1 TSBA + AA X221.57.0985mz.13.45min`
+$`0.1 TSBA + AA X221.57.0985mz.13.45min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.6379, df = 3.2715, p-value = 0.07106
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -0.1447321  2.0524264
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.4421966                          -0.5116505 
+
+
+$`0.1 TSBA + AA X221.57.0985mz.13.45min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 2.153809 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.6955882  5.0032061 
+
+
+
+$`0.1 TSBA + AA X226.55.0728mz.13.60min`
+$`0.1 TSBA + AA X226.55.0728mz.13.60min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.054622, df = 3.8492, p-value = 0.9592
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.449809  1.394710
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                            1.33281                             1.36036 
+
+
+$`0.1 TSBA + AA X226.55.0728mz.13.60min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.04459834 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.311838  2.222641 
+
+
+
+$`0.1 TSBA + AA X228.43.0710mz.14.18min`
+$`0.1 TSBA + AA X228.43.0710mz.14.18min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -3.419, df = 3.3072, p-value = 0.03605
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.2069747 -0.3213464
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.5760338                           2.1881268 
+
+
+$`0.1 TSBA + AA X228.43.0710mz.14.18min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -2.791636 (large)
+95 percent confidence interval:
+    lower     upper 
+-5.976816  0.393544 
+
+
+
+$`0.1 TSBA + AA X231.57.0724mz.14.44min`
+$`0.1 TSBA + AA X231.57.0724mz.14.44min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.2361, df = 3.1385, p-value = 0.3009
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.360470  5.483643
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           1.017630                           -0.543957 
+
+
+$`0.1 TSBA + AA X231.57.0724mz.14.44min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.00924 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.397711  3.416191 
+
+
+
+$`0.1 TSBA + AA X235.57.0983mz.14.71min`
+$`0.1 TSBA + AA X235.57.0983mz.14.71min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.0522, df = 3.1402, p-value = 0.9615
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.950939  2.017689
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.247590                           -1.280965 
+
+
+$`0.1 TSBA + AA X235.57.0983mz.14.71min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.04262074 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.224595  2.309836 
+
+
+
+$`0.1 TSBA + AA X239.169.0631mz.15.11min`
+$`0.1 TSBA + AA X239.169.0631mz.15.11min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.720876  3.563135
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.9770067                           0.1018638 
+
+
+$`0.1 TSBA + AA X239.169.0631mz.15.11min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-3.176021  1.543028 
+
+
+
+$`0.1 TSBA + AA X241.57.1016mz.15.91min`
+$`0.1 TSBA + AA X241.57.1016mz.15.91min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.3773, df = 3.8951, p-value = 0.2423
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.105366  9.092195
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          3.6041062                           0.6106917 
+
+
+$`0.1 TSBA + AA X241.57.1016mz.15.91min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.124588 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.314987  3.564162 
+
+
+
+$`0.1 TSBA + AA X244.149.0190mz.15.96min`
+$`0.1 TSBA + AA X244.149.0190mz.15.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.58375, df = 2.1602, p-value = 0.6146
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -14.46114  10.78660
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.3347866                           1.5024839 
+
+
+$`0.1 TSBA + AA X244.149.0190mz.15.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.4766299 (small)
+95 percent confidence interval:
+   lower    upper 
+-2.77555  1.82229 
+
+
+
+$`0.1 TSBA + AA X245.71.0788mz.15.96min`
+$`0.1 TSBA + AA X245.71.0788mz.15.96min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.93802, df = 2.0409, p-value = 0.4455
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -30.93460  19.68542
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          -1.324582                            4.300005 
+
+
+$`0.1 TSBA + AA X245.71.0788mz.15.96min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.765894 (medium)
+95 percent confidence interval:
+    lower     upper 
+-3.114493  1.582705 
+
+
+
+$`0.1 TSBA + AA X248.74.0585mz.16.21min`
+$`0.1 TSBA + AA X248.74.0585mz.16.21min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.3724, df = 3.8839, p-value = 0.2439
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.851974 14.118816
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          5.5920483                           0.9586274 
+
+
+$`0.1 TSBA + AA X248.74.0585mz.16.21min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.120541 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.317837  3.558919 
+
+
+
+$`0.1 TSBA + AA X251.105.0200mz.16.46min`
+$`0.1 TSBA + AA X251.105.0200mz.16.46min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.067038, df = 2.0375, p-value = 0.9526
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -10.08345  10.40839
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.5752138                           0.4127410 
+
+
+$`0.1 TSBA + AA X251.105.0200mz.16.46min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.05473624 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.212646  2.322119 
+
+
+
+$`0.1 TSBA + AA X252.41.0788mz.16.59min`
+$`0.1 TSBA + AA X252.41.0788mz.16.59min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.79959, df = 2.8487, p-value = 0.4852
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -5.974206  9.825515
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.255883                            0.330228 
+
+
+$`0.1 TSBA + AA X252.41.0788mz.16.59min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6528609 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.673703  2.979425 
+
+
+
+$`0.1 TSBA + AA X256.57.0981mz.17.05min`
+$`0.1 TSBA + AA X256.57.0981mz.17.05min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 6.7121, df = 3.4226, p-value = 0.004399
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ 2.386453 6.177457
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                           2.174796                           -2.107159 
+
+
+$`0.1 TSBA + AA X256.57.0981mz.17.05min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 5.480434 (large)
+95 percent confidence interval:
+     lower      upper 
+ 0.5374288 10.4234398 
+
+
+
+$`0.1 TSBA + AA X260.99.0782mz.17.14min`
+$`0.1 TSBA + AA X260.99.0782mz.17.14min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1, df = 2, p-value = 0.4226
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -4.666099  7.491767
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.3428427                          -1.0699910 
+
+
+$`0.1 TSBA + AA X260.99.0782mz.17.14min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8164966 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.543028  3.176021 
+
+
+
+$`0.1 TSBA + AA X264.221.1306mz.17.46min`
+$`0.1 TSBA + AA X264.221.1306mz.17.46min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.81662, df = 2.5938, p-value = 0.4824
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.477478  2.382191
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.7457566                           0.2934001 
+
+
+$`0.1 TSBA + AA X264.221.1306mz.17.46min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.6667665 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.662330  2.995863 
+
+
+
+$`0.1 TSBA + AA X266.57.0867mz.18.13min`
+$`0.1 TSBA + AA X266.57.0867mz.18.13min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.42339, df = 3.9948, p-value = 0.6938
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.037125  4.129408
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.2431432                          -0.3029981 
+
+
+$`0.1 TSBA + AA X266.57.0867mz.18.13min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.3456933 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.938134  2.629520 
+
+
+
+$`0.1 TSBA + AA X272.149.0162mz.18.93min`
+$`0.1 TSBA + AA X272.149.0162mz.18.93min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.40737, df = 2.0949, p-value = 0.7216
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -13.28809  10.89742
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.4646627                           0.7306693 
+
+
+$`0.1 TSBA + AA X272.149.0162mz.18.93min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.332614 (small)
+95 percent confidence interval:
+    lower     upper 
+-2.615193  1.949965 
+
+
+
+$`0.1 TSBA + AA X274.57.0884mz.19.16min`
+$`0.1 TSBA + AA X274.57.0884mz.19.16min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.009, df = 3.5514, p-value = 0.3767
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.207471  4.538024
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.1352548                          -1.0300215 
+
+
+$`0.1 TSBA + AA X274.57.0884mz.19.16min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8238312 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.537331  3.184993 
+
+
+
+$`0.1 TSBA + AA X277.149.0102mz.19.87min`
+$`0.1 TSBA + AA X277.149.0102mz.19.87min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.11121, df = 2.016, p-value = 0.9215
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -12.05277  11.44090
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                        -0.05573201                          0.25020406 
+
+
+$`0.1 TSBA + AA X277.149.0102mz.19.87min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.09080535 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.358931  2.177321 
+
+
+
+$`0.1 TSBA + AA X280.57.0960mz.20.13min`
+$`0.1 TSBA + AA X280.57.0960mz.20.13min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.8685, df = 3.5356, p-value = 0.4401
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.703799  3.141940
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.1562757                          -0.8753462 
+
+
+$`0.1 TSBA + AA X280.57.0960mz.20.13min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.7091298 (medium)
+95 percent confidence interval:
+    lower     upper 
+-1.627991  3.046250 
+
+
+
+$`0.1 TSBA + AA X284.57.0902mz.21.07min`
+$`0.1 TSBA + AA X284.57.0902mz.21.07min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = -0.016641, df = 3.2256, p-value = 0.9877
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.556605  1.539766
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.9788460                          -0.9704269 
+
+
+$`0.1 TSBA + AA X284.57.0902mz.21.07min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: -0.01358769 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.280572  2.253396 
+
+
+
+$`0.1 TSBA + AA X286.57.0938mz.21.97min`
+$`0.1 TSBA + AA X286.57.0938mz.21.97min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.028298, df = 3.6503, p-value = 0.9789
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.643491  1.676056
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.7271305                          -0.7434132 
+
+
+$`0.1 TSBA + AA X286.57.0938mz.21.97min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.02310513 (negligible)
+95 percent confidence interval:
+    lower     upper 
+-2.243928  2.290139 
+
+
+
+$`0.1 TSBA + AA X289.158.9436mz.22.54min`
+$`0.1 TSBA + AA X289.158.9436mz.22.54min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 2.3389, df = 2.6145, p-value = 0.1142
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -2.07521 10.69433
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          3.5719531                          -0.7376057 
+
+
+$`0.1 TSBA + AA X289.158.9436mz.22.54min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 1.909663 (large)
+95 percent confidence interval:
+     lower      upper 
+-0.8256182  4.6449451 
+
+
+
+$`0.1 TSBA + AA X292.57.0953mz.22.84min`
+$`0.1 TSBA + AA X292.57.0953mz.22.84min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 0.52366, df = 3.999, p-value = 0.6282
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -1.994003  2.920900
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                         -0.5884694                          -1.0519180 
+
+
+$`0.1 TSBA + AA X292.57.0953mz.22.84min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.4275673 (small)
+95 percent confidence interval:
+    lower     upper 
+-1.865146  2.720281 
+
+
+
+$`0.1 TSBA + AA X295.57.0928mz.23.67min`
+$`0.1 TSBA + AA X295.57.0928mz.23.67min`$`Student's t-Test`
+
+	Welch Two Sample t-test
+
+data:  tbl_sel[, mycomp] by Inoculation
+t = 1.0918, df = 2.5041, p-value = 0.3687
+alternative hypothesis: true difference in means between group Abiotic Control and group Burkholderia sp. AD24 is not equal to 0
+95 percent confidence interval:
+ -3.610009  6.790433
+sample estimates:
+      mean in group Abiotic Control mean in group Burkholderia sp. AD24 
+                          0.2838077                          -1.3064042 
+
+
+$`0.1 TSBA + AA X295.57.0928mz.23.67min`$`Effect size: Cohen's d`
+
+Cohen's d
+
+d estimate: 0.8914817 (large)
+95 percent confidence interval:
+    lower     upper 
+-1.485413  3.268377 
+
+
+

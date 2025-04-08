@@ -1,0 +1,27 @@
+$`R Version`
+[1] "R version 4.3.2 (2023-10-31 ucrt)"
+
+$`R Studio Version`
+[1] ‘2024.12.0.467’
+
+$effsize
+[1] ‘0.8.1’
+
+$plyr
+[1] ‘1.8.9’
+
+$vegan
+[1] ‘2.6.4’
+
+$RColorBrewer
+[1] ‘1.1.3’
+
+$pheatmap
+[1] ‘1.0.12’
+
+$ggforce
+[1] ‘0.4.2’
+
+$ggpubr
+[1] ‘0.6.0’
+
