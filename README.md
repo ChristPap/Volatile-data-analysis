@@ -20,4 +20,4 @@ Lastly an overview of the data was obtained by performing Partial Least Squares 
      - "2_Diff.Int"
      - "3_Burk_Comp_Norm"
      - "4_Diff_Int_Media"
-6. Place the curated peak intensity table in the "0_Data_preparation" folder
+6. Place the analysis scripts in the "Volatilomic analysis" folder and the peak intensity table in the "0_Data_preparation" folder
