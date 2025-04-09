@@ -14,10 +14,10 @@ Lastly an overview of the data was obtained by performing PLSDA analysis.
      - Analysis artifacts / False compounds
 3. Replace missing vlaues with 0
 4. Transpose the table
-5.  In the analysis folder prepare the following folders:
-    i. "0_Data_preparation"
-    ii. "1_Data_norm"
-    iii. "2_Diff.Int"
-    iv. "3_Burk_Comp_Norm"
-    v. "4_Diff_Int_Media"
+5. Create the "Volatilomic analysis" folder in which prepare the following folders:
+     - "0_Data_preparation"
+     - "1_Data_norm"
+     - "2_Diff.Int"
+     - "3_Burk_Comp_Norm"
+     - "4_Diff_Int_Media"
 6. Place the curated peak intensity table in the "0_Data_preparation" folder
