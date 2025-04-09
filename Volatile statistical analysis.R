@@ -23,7 +23,7 @@
 # C2/40.0339mz/1.37min	  2.84E+05	              4.69E+05	              3.35E+04
 
 
-# (II) In the analysis folder prepare the following folders (Copy/Paste to make sure the name are the same)
+# (II) In the project directory prepare the folder "Volatilomic analysis" and then create the following folders (Copy/Paste to make sure the name are the same)
 # "0_Data_preparation"
 # "1_Data_norm"
 # "2_Diff.Int"
