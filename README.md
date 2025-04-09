@@ -10,8 +10,8 @@ Lastly an overview of the data was obtained by performing PLSDA analysis.
 ## Steps to take before the analysis
 1. Extract the peak intensity table from MZmine in the metaboanalyst form
 2. Manually curate the peak intensity table to remove
-     i. Silica Compounds
-     ii. Analysis artifacts / False compounds
+     - Silica Compounds
+     - Analysis artifacts / False compounds
 3. Replace missing vlaues with 0
 4. Transpose the table
 5.  In the analysis folder prepare the following folders:
