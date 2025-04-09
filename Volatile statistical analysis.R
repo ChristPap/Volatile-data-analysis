@@ -31,7 +31,7 @@
 # "4_Diff_Int_Media"
 
 
-# (IΙΙ) Place the scripts in the "Voaltilomic analysis" folder and the peak intensity table in the "0_Data_preparation" folder
+# (IΙΙ) Place the scripts in the "Volatilomic analysis" folder and the peak intensity table in the "0_Data_preparation" folder
 
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
