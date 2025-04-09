@@ -6,7 +6,7 @@
 #-#-#         Data Preprocessing   #-#-#-# ----
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-# (I) Extract the peak intensity table from the MZmine in the metaboanalyst form:
+# (I) Extract the peak intensity table from the MZmine in the metaboanalyst form
 
 # Manually curate the Peak Intensity Table
 ## Remove silica compounds
@@ -23,7 +23,7 @@
 # C2/40.0339mz/1.37min	  2.84E+05	              4.69E+05	              3.35E+04
 
 
-# (II) In the project directory create the folder "Volatilomic analysis" and then prepare the following folders (Copy/Paste to make sure the names are the same)
+# (II) In the project directory, create the folder "Volatilomic analysis" and then prepare the following folders (Copy/Paste to make sure the names are the same)
 # "0_Data_preparation"
 # "1_Data_norm"
 # "2_Diff.Int"
