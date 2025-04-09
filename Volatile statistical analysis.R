@@ -23,7 +23,7 @@
 # C2/40.0339mz/1.37min	  2.84E+05	              4.69E+05	              3.35E+04
 
 
-# (II) In the project directory prepare the folder "Volatilomic analysis" and then create the following folders (Copy/Paste to make sure the name are the same)
+# (II) In the project directory create the folder "Volatilomic analysis" and then prepare the following folders (Copy/Paste to make sure the names are the same)
 # "0_Data_preparation"
 # "1_Data_norm"
 # "2_Diff.Int"
@@ -31,7 +31,7 @@
 # "4_Diff_Int_Media"
 
 
-# (IΙΙ) Place the peak intensity table in the "0. Data preparation" folder
+# (IΙΙ) Place the scripts in the "Voaltilomic analysis" folder and the peak intensity table in the "0_Data_preparation" folder
 
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
